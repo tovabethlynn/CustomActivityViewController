@@ -1,5 +1,5 @@
-Custom Activity View Controller
+# Custom Activity View Controller
 
-Mimics the look and feel of a UIActivityViewController, except the view is completely customizable and does not include any activity types.
+CustomActivityViewController mimics the look and feel of a UIActivityViewController, except it does not include any activity types. The view is essentially a blank canvas.
 
-![alt tag](SimulatorScreenShot.png)
+<p align="center"><img src="SimulatorScreenShot.png" width="300"></p>
